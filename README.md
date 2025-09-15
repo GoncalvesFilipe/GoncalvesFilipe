@@ -18,7 +18,8 @@
 
 
 
-
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FilipeGon%C3%A7alves-p1g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegon%C3%A7alvestecif/)
 
 
 ![pacman](https://github.com/user-attachments/assets/4264d7da-4d85-42dc-880c-f33586ed0fb1)
