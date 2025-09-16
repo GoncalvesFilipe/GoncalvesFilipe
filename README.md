@@ -1,4 +1,4 @@
-# Hellow, Word!
+# Hellow, World!
 
 👋 Hi, I’m Filipe Gonçalves  
 🎓 Student at **IF Baiano**  
