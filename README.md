@@ -1,34 +1,47 @@
-# Hellow, World!
+# Hello, World!
 
-👋 Hi, I’m Filipe Gonçalves  
-🎓 Student at **IF Baiano**  
+👋 I’m **Filipe Gonçalves**  
+🎓 Student at **Bahia Federal Institute of Education, Science and Technology, Senhor do Bonfim <i>Campus</i>.**  
 💻 Intern in **Software Development with Django** at the same Institution  
 🚀 Looking for my **first job opportunity in IT** to apply and improve my skills  
 
+---
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex-basis: 48%;">
-	<h3>Programming Languages</h3>
-	<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"</div>
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Programming and Markup Language</h3>
+    <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
 
-<div style="flex-basis: 48%;">
-	<h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  	<img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Tools & Frameworks</h3>
+    <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img alt="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+    <img alt="DB Browser" height="40" src="https://avatars.githubusercontent.com/u/168813?s=200&v=4">
+  </div>
+
 </div>
 
-
+---
 
 <h3>👨‍💻 More about me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipegon%C3%A7alvestecif/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FilipeGon%C3%A7alves-p1g)
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipegon%C3%A7alvestecif/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@FilipeGon%C3%A7alves-p1g">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
 
 
+---
 
 ![pacman](https://github.com/user-attachments/assets/4264d7da-4d85-42dc-880c-f33586ed0fb1)
 
